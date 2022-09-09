@@ -1,0 +1,15 @@
+[
+    {
+    "Board_name":"raspberry pi pico",
+    "URL":"https://github.com/earlephilhower/arduino-pico/releases/download/2.5.2/rp2040-2.5.2.zip"
+    },
+    {
+        "Board_name":"ESP 8266",
+        "URL":"https://github.com/esp8266/Arduino/releases/download/3.0.2/esp8266-3.0.2.zip"
+    },
+    {
+        "Board_name":"ESP 32",
+        "URL":"https://github.com/espressif/arduino-esp32/releases/download/2.0.4/esp32-2.0.4.zip"
+    }
+
+]
